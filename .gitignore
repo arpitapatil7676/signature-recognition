@@ -1,0 +1,6 @@
+extracted/
+signatures.zip
+train/
+*.csv
+__pycache__/
+*.pyc
